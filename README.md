@@ -7,8 +7,6 @@ I'm a computer engineering student at Metropolitan University with a strong pass
 - 👯 I'm open to collaborating on coding projects, especially with fellow students who are on a similar learning journey.
 - 🤔 As a beginner, I know my code might sometimes resemble spaghetti, so any guidance or feedback is greatly appreciated.
 - 💬 Feel free to ask me about my experiences as a beginner coder or any questions you may have about IT and computer engineering.
-- 📫 You can reach me via email at [your_email@example.com].
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm fascinated by the potential of technology to simplify tasks and enhance our daily lives.
 - 🤖 Fun fact: This profile introduction was generated with the assistance of ChatGPT because self-introductions aren't my favorite!
 
